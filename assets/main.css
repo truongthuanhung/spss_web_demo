@@ -78,7 +78,7 @@ html {
 }
 
 #slider {
-    background: url('/assets/img/slbk.jpg') top center / cover no-repeat;
+    background: url('./assets/img/slbk.jpg') top center / cover no-repeat;
     padding-top: 40.625%;
     margin-top: 77px;
     position: relative;
@@ -160,7 +160,7 @@ html {
 }
 
 #footer {
-    background: url('/assets/img/hcmut2.jpg') top center / cover no-repeat;
+    background: url('./assets/img/hcmut2.jpg') top center / cover no-repeat;
 }
 
 .footer__overlayed {
